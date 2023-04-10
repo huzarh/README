@@ -1,6 +1,6 @@
 
 Welcome to my profile!
-# I'm Khuzair - a 22 year old Junior developer!
+### I'm Khuzair - a 22 year old Junior developer!
 
 * 🌐 Visit my website here!
 * 🎓 SUBÜ
@@ -10,6 +10,10 @@ Welcome to my profile!
 * 🌄 Painter artist
 * 🚀🎨 Interested in all things space & art
 
+---
+
+#>🔬 Technologies and tools I use
+Visit https://github.com
 ![imagename](https://media.emailonacid.com/wp-content/uploads/2019/03/2019-GifsInEmail.gif) 
  
 <!---
