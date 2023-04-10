@@ -2,13 +2,13 @@
 Welcome to my profile!
 # I'm Khuzair - a 22 year old Junior developer!
 
-*🌐 Visit my website here!
-*🎓 SUBÜ
-*👨🏻‍💻 dev @huzarh
-*🇰🇿🇲🇳 KZ/MN
-*🌍 Based in Turkey, Mongolia and Kazakhstan
-*🌄 Painter artist
-*🚀🎨 Interested in all things space & art
+* 🌐 Visit my website here!
+* 🎓 SUBÜ
+* 👨🏻‍💻 dev @huzarh
+* 🇰🇿🇲🇳 KZ/MN
+* 🌍 Based in Turkey, Mongolia and Kazakhstan
+* 🌄 Painter artist
+* 🚀🎨 Interested in all things space & art
 
 ![imagename](https://media.emailonacid.com/wp-content/uploads/2019/03/2019-GifsInEmail.gif) 
  
