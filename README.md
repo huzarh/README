@@ -1,5 +1,5 @@
 
-# Welcome to my profile ✳️ 🌃 🔆
+# Welcome to my profile 🔆 🌩️
 
 #### I'm Khuzair - a 22 year old Junior developer 🕵️‍♀️
 
