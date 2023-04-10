@@ -24,7 +24,7 @@ Welcome to my profile!
 ![nature](https://i.pinimg.com/originals/f9/47/74/f94774094cdb0632c80e94a27d4de239.gif)
 
 ---
-## ⏲️: Free time:
+## 📅: Free time:
 
 <div id="badges">
   <a href="your-linkedin-URL">
@@ -41,6 +41,9 @@ Welcome to my profile!
   </a>
    <a href="">
     <img src="https://img.shields.io/badge/ChatGPT-brightgreen?style=for-the-badge&logo=chatgpt&logoColor=white" alt="ChatGPT Badge"/>
+   </a>
+   <a href="">
+    <img src="https://img.shields.io/badge/sport-brightgreen?style=for-the-badge&logo=sport&logoColor=white" alt="ChatGPT Badge"/>
    </a>
 </div>
 --
