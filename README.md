@@ -13,11 +13,9 @@
 
 ---
 
-## 🔬Technologies and tools I use
+## 🔬Technologies and skills I use
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
 
 ![javascript](https://camo.githubusercontent.com/cf1a0ef083a2372d7f66b4691d5d25bfd8c098f42871e8da90edb1f32ed187c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074) 
 ![react](https://camo.githubusercontent.com/137a7a0f28f9e326bcc81a5a0bd853c86435143774c15642d827a5788e778667/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374)
@@ -27,6 +25,9 @@
 ![nodejs](https://camo.githubusercontent.com/cec92673ea713fa89ba2ae2033daf5851f6f39393ff5b93231aa707d424638d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73)
 ![mongodb](https://camo.githubusercontent.com/392fa71fd2737088b6d21ba33f3d2fb6e1ac7c61142cdbe56c1d688ecf781ab8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462)
 
+<div id="header" align="center">
+  <img src="https://scontent.fkco5-1.fna.fbcdn.net/v/t39.30808-6/166982124_344879250607103_6803994875227046076_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=19026a&_nc_ohc=4ktuG_ckIzEAX_K8QNf&_nc_ht=scontent.fkco5-1.fna&oh=00_AfC3n7wFAiUxAjlry1OlQWlydyQhX2E4m6TQSwGSmepjhQ&oe=643981C4" width="500" hieght="200" />
+</div>
 
 ---
 ## ⏰ Free time:
