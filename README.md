@@ -1,9 +1,9 @@
 
 Welcome to my profile!
-#### I'm Khuzair - a 22 year old Junior developer 🧑‍🦱
+#### I'm Khuzair - a 22 year old Junior developer 🕵️‍♀️
 
 * 🌐 Visit my website here!
-* 🎓 SUBÜ
+* 🎓 I myself am a university 😄
 * 👨🏻‍💻 dev @huzarh
 * 🇰🇿🇲🇳 KZ/MN
 * 🌍 Based in Turkey, Mongolia and Kazakhstan
