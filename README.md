@@ -52,8 +52,10 @@
    </a>
   
 </div>
+
 ![nature](https://i.pinimg.com/originals/f9/47/74/f94774094cdb0632c80e94a27d4de239.gif)
---
+
+---
 
 ### :fire: My Stats :
 
