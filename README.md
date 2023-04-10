@@ -38,6 +38,9 @@ Welcome to my profile!
    <a href="your-facebook-URL">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
+   <a href="">
+    <img src="https://img.shields.io/badge/ChatGPT-brightgreen?style=for-the-badge&logo=chatgpt&logoColor=white" alt="ChatGPT Badge"/>
+   </a>
 </div>
 <!---
 huzarh/huzarh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
