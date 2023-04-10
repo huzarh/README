@@ -1,7 +1,7 @@
 
 # Welcome to my profile 🔆 🌩️
 
-#### I'm Khuzair - a 22 year old Junior developer 🕵️‍♀️
+#### I'm Khuzair - 22 years old Junior developer 🕵️‍♀️
 
 * 🌐 Visit my website here!
 * 🎓 I myself am a university 😄
