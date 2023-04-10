@@ -1,15 +1,15 @@
 
 Welcome to my profile!
-# I'm Khuzair - a 22 year old software developer!
+# I'm Khuzair - a 22 year old Junior developer!
 
-✅ Certified AWS Cloud Practitioner
-🌐 Visit my website here!
-🎓 Studying at City, University of London
-👨🏻‍💻 Software dev @Equals
-🇵🇱🇳🇴 Polish/Norwegian
-🇬🇧 Based in London, UK
-📸 Photographer
-🚀🏎 Interested in all things space & motorsport
+*🌐 Visit my website here!
+*🎓 SUBÜ
+*👨🏻‍💻 dev @huzarh
+*🇰🇿🇲🇳 KZ/MN
+*🌍 Based in Turkey, Mongolia and Kazakhstan
+*🌄 Painter artist
+*🚀🎨 Interested in all things space & art
+
 ![imagename](https://media.emailonacid.com/wp-content/uploads/2019/03/2019-GifsInEmail.gif) 
  
 <!---
