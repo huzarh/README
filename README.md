@@ -11,6 +11,7 @@
 * 🌄 Painter artist
 * 🚀🎨 Interested in all things space & art
 
+##I'm doing it now 💻http://turk--ce.com/
 ---
 
 ## 🔬Technologies and skills I use
