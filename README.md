@@ -3,7 +3,7 @@
 
 #### I'm Khuzair - 22 years old Junior developer 🕵️‍♀️
 
-* 🌐 Visit my website here!
+* 🌐 <a herf="turk--ce.com">Visit my website here!</a>
 * 🎓 I myself am a university 😄
 * 👨🏻‍💻 dev @huzarh
 * 🇰🇿🇲🇳 KZ/MN
