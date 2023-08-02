@@ -6,7 +6,7 @@
 * 🌐 <a herf="turk--ce.com">Visit my website here!</a>
 * 🎓 I myself am a university 😄
 * 👨🏻‍💻 dev @huzarh
-* 🇰🇿🇲🇳 KZ/MN
+*  KZ/MN
 * 🌍 Based in Turkey, Mongolia and Kazakhstan
 * 🌄 Painter artist
 * 🚀🎨 Interested in all things space & art
