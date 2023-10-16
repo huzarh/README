@@ -1,6 +1,6 @@
 
 # Welcome to my profile 🔆 🌩️
-<!-- Redis rabbitmq-->
+<!-- Redis rabbitmq -->
 #### I'm Khuzair - 21 years old Junior developer 🕵️‍♀️
 
 * 🌐 <a herf="turk--ce.com">Visit my website here!</a>
