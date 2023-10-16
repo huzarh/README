@@ -1,10 +1,10 @@
 
 # Welcome to my profile 🔆 🌩️
-
+<!-- Redis rabbitmq-->
 #### I'm Khuzair - 21 years old Junior developer 🕵️‍♀️
 
 * 🌐 <a herf="turk--ce.com">Visit my website here!</a>
-* 🎓 I myself am a university 😄
+* 🎓 I'm myself a university 😄
 * 👨🏻‍💻 dev @huzarh
 *  KZ/MN
 * 🌍 Based in Turkey, Mongolia and Kazakhstan
