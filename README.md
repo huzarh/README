@@ -72,7 +72,13 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huzarh)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--- requir:
-ngrok
+real time laptop public ip url: ngrok
+npm key:0ec36ea883f13acc6edcba717085afb09e24874de5c2f39e831f1730897ef523
+4a7b9a977f51a67ef9b4c2caf1bb0578bf6408e24acb531b6064ad93a1a1e22b
+44db7155a75d9780551ffb401b833b684dae9d20ceaacf81c0a170c844992205
+5c86e3b984313e02746b4b017a2f81ea13479b406cbd46c81694f6eec9930957
+5790de671ec78c2a6d6764a30e9104971a0305e05472ed3198ec41285d9d787a
+
 
 huzarh/huzarh is a ✨ special ✨ repository because sdv its `README.md` (this file) appears on your GitHub profile.
 You can click the Pr.  ergseg er g.   reg egrr.  eview  ewr gw eg  look at your changes ewr gw eg  look at your changes link to take adsvs ewr gw eg  look at your changes.
