@@ -72,7 +72,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huzarh)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--- requir: 
-real time laptop public ip url: ngrok
+real time laptop public ip url: ngrokf
 npm key:0ec36ea883f13acc6edcba717085afb09e24874de5c2f39e831f1730897ef523
 4a7b9a977f51a67ef9b4c2caf1bb0578bf6408e24acb531b6064ad93a1a1e22b
 44db7155a75d9780551ffb401b833b684dae9d20ceaacf81c0a170c844992205
