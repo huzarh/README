@@ -19,7 +19,7 @@
 
 
  
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,next,vue,threejs,redux,mui,nodejs,mongodb,vite,regex,powershell,nginx,nextjs,mysql,linux,github,git,firebase,figma,express,emotion,firebase&perline)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,next,vue,threejs,redux,mui,nodejs,mongodb,vite,regex,powershell,nginx,nextjs,mysql,linux,github,git,firebase,figma,express,emotion,firebase)](https://skillicons.dev)
 
 ## ✨ Drew
 
