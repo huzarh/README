@@ -78,4 +78,11 @@ npm key:0ec36ea883f13acc6edcba717085afb09e24874de5c2f39e831f1730897ef523
 huzarh/huzarh is a ✨ special ✨ repository because sdv its `README.md` (this file) appears on your GitHub profile.
 You can click the Pr.  ergseg er g.   reg egrr.  eview  ewr gw eg  look at your changes ewr gw eg  look at your changes link to take adsvs ewr gw eg  look at your changes.
   ergseg er g.   reg egrr.  eview  ewr gw eg  look at your changes ewr gw eg  look at your changes link to take adsvs ewr gw eg  look at your changes.ink to take adsvs ewr gw eg  look at your changes.
+
+
+odev
+
+1. bisection method
+2. baker's donusumu
+3. mandelbrot fraktal
 --->
