@@ -4,7 +4,7 @@
 <!-- Redis rabbitmq -->
 #### I'm Khuzair - 21 years old Junior developer 🕵️‍♀️
 
-* 🌐 <a herf="[turk--ce.com](https://www.figma.com/file/7exZOtR4OToYZ461fX3JUI/Untitled?type=design&node-id=6-2&mode=design&t=U6Eicjr1TjKvP1bQ-0)">Visit my website here!</a>
+* 🌐 <a herf="https://www.figma.com/file/7exZOtR4OToYZ461fX3JUI/Untitled?type=design&node-id=6-2&mode=design&t=U6Eicjr1TjKvP1bQ-0">Visit my website here!</a>
 * 🎓 I'm myself a university 😄
 * 👨🏻‍💻 dev @huzarh
 *  KZ/MN
