@@ -111,7 +111,8 @@ print(outputs)
 #Hamgiin ih magdlaltai utaga
 label = numpy.argmax(outputs)
 print("Hiimel oyunii hariu",label,"<<<<<<<<<<<")
-print(f"finished after {round(time() - start,2)} seconds")
+print(f"finished after {round(time() - start,2)} seconds")```
+```
 # Welcome to my profile 🔆 🌩️
 <!-- Redis rabbitmq -->
 #### I'm Khuzair - 21 years old Junior developer 🕵️‍♀️
