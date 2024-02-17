@@ -1,4 +1,117 @@
+import numpy
+#used sigmoid func 
+import scipy.special
+import matplotlib.pyplot
+from time import time
+# read of img
+import imageio.v2 as imageio
+ 
+start = time() 
+class NeuralNetwork:
+    def __init__(self):
+        
+        self.inodes = 784
+        self.hnodes = 200
+        self.onodes = 10
+        # w_i_j (neuron i aas neuron j ruu holboson)w11 w21
+        #w12 w22 etc, biasuud n togtmol - 0.5
+        self.wih = numpy.random.normal(0.0, pow(self.inodes, -0.5), (self.hnodes, self.inodes))
+        self.who = numpy.random.normal(0.0, pow(self.hnodes, -0.5), (self.onodes, self.hnodes))
+        #learning rate
+        self.lr = 0.1
 
+        #activation function with sigmoid
+        self.activation_function = lambda x: scipy.special.expit(x)
+    
+    # study function
+    def train(self, inputs_list,targets_list):
+        # oroltuud 2d array ruuu hurvuulne
+        inputs = numpy.array(inputs_list, ndmin=2).T
+        targets = numpy.array(targets_list, ndmin=2).T
+        #signaluudaa dald davharg ruu totsoolh
+        hidden_inputs = numpy.dot(self.wih, inputs)
+        #used activation function
+        hidden_outputs = self.activation_function(hidden_inputs)
+
+        #signaluuda garltiin davhargt totsoolh
+        final_inputs = numpy.dot(self.who, hidden_outputs)
+        # singaluuda garltiin davhraga deer idevhjvvlegch func totsoo heseg
+        final_outputs = self.activation_function(final_inputs)
+        # alda tootsoh (target - actual)
+        output_errors = targets - final_outputs
+        #dald davharg deerh aldanuud
+        hidden_errors = numpy.dot(self.who.T,output_errors)
+        #Bakprop ashiglan garaltiin davhargaas dald davharg ruu aldaa zasah heseg
+        self.who += self.lr * numpy.dot((output_errors * final_outputs * (1.0 - final_outputs)), numpy.transpose(hidden_outputs))
+        #bakprop ashiglan dald davhargaas oroltiin davharg ruu aldaa zasah
+        self.wih += self.lr * numpy.dot((hidden_errors * hidden_outputs * (1.0 - hidden_outputs)), numpy.transpose(inputs))
+        pass
+
+    # surgsan hiiimal oyunaas asuult asuuh func
+    def query(self, inputs_list):
+        # oroluud 2d massiiv ruu horvuulnee
+        inputs = numpy.array(inputs_list, ndmin=2).T
+        # signal dald davharg ruu tootsoo heseg
+        hidden_inputs = numpy.dot(self.wih,inputs)
+        hidden_outputs = self.activation_function(hidden_inputs)
+        #signaluud garalt davhargr totsoo heseg
+        final_inputs = numpy.dot(self.who, hidden_outputs)
+        #signaluudaa grarltiin davhraga deer idevhejvvlh func deer totsoo hiih
+        final_outputs = self.activation_function(final_inputs)
+        return final_outputs
+
+# oroltiin, dald, garaltiin neuronuud
+# input_nodes = 784
+# hidden_nodes = 200
+# output_nodes = 10
+# # learning rate
+# learning_rate = 0.1
+# Create Neuron network
+print("started")
+n = NeuralNetwork()
+# Learning MNIST run data
+training_data_file = open("./mnist_train.csv",'r')
+training_data_list = training_data_file.readlines()
+training_data_file.close()
+
+#Neuron svljee surgah 
+#Epochs, surgaltiin vi
+epochs = 10
+for e in range(epochs):
+    # Surgaltiin data deer davtalt hiih
+    print(f"training ... {round(time() - start,2)} seconds")
+    for record in training_data_list:
+        
+        all_values = record.split(',')
+        #Normalchlah
+        inputs = (numpy.asfarray(all_values[1:]) / 255.0*0.99) + 0.01
+        targets = numpy.zeros(10)+0.01
+        targets[int(all_values[0]) ]=0.99
+        n.train(inputs,targets)
+        pass
+    print("epoch----",e)
+    pass
+
+# sursan neuron svljeeg test hiih
+img_array = imageio.imread('./0000.png',mode='L')
+#28x28 aas 784 utagtai
+img_data = img_array.reshape(784)
+print("---]] ",img_data)
+
+#Normalchilh
+img_data = (img_data / 255.0 * 0.99)+0.01
+print("min =", numpy.min(img_data))
+print("max =", numpy.max(img_data))
+
+#end
+matplotlib.pyplot.imshow(img_data.reshape(28,28),cmap='Greys', interpolation='None')
+#surgsan neuronoos asuuh shalgah
+outputs = n.query(img_data)
+print(outputs)
+#Hamgiin ih magdlaltai utaga
+label = numpy.argmax(outputs)
+print("Hiimel oyunii hariu",label,"<<<<<<<<<<<")
+print(f"finished after {round(time() - start,2)} seconds")
 # Welcome to my profile 🔆 🌩️
 <!-- Redis rabbitmq -->
 #### I'm Khuzair - 21 years old Junior developer 🕵️‍♀️
